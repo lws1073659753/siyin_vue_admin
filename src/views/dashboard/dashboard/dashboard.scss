@@ -1,0 +1,79 @@
+@import "src/styles/common.scss";
+
+.el-date-editor {
+  width: 45%;
+}
+
+// .app-container{
+//  // height: 1000px;
+ 
+//   //background: url(../../assets/img/bg3.jpg) no-repeat center center;
+//   background-image: url(../../assets/img/bg3.png);
+// }
+.el-row {
+  margin-bottom: 20px;
+}
+// ::v-deep .el-form-item {
+//   margin: 0 5px !important;
+//   // padding: 20px;
+//   // background-color: ;
+// }
+// ::v-deep .el-table,
+// .el-table__expanded-cell {
+//  // padding: 20px !important;
+//   background-color: transparent !important;
+// }
+// ::v-deep .el-table th {
+//   background-color: transparent !important;
+//   border-bottom: 1px solid #5078fc !important;
+//   color: #fefefe !important;
+// }
+// ::v-deep .el-table tr {
+//   background-color: transparent !important;
+// }
+// ::v-deep .el-table--enable-row-transition .el-table__body td,
+// ::v-deep .el-table .cell {
+//   background-color: transparent !important;
+//   color: rgba(255, 255, 255, 0.7) !important;
+//   border: none !important;
+//   // padding-left: 0 !important;
+//   // padding-right: 0 !important;
+// }
+// ::v-deep .el-table th > .cell {
+//   color: rgba(254, 254, 254, 1) !important;
+//   //font-weight: 700 !important;
+// }
+// .el-table::before {
+//   //去除底部白线
+//   left: 0 !important;
+//   bottom: 0 !important;
+//   width: 100%!important;
+//   height: 0px !important;
+// }
+ 
+// ::v-deep .el-form-item__label {
+//   color: white !important;
+// }
+// // page-sizes选择器
+// ::v-deep .el-select-dropdown__item li{
+//   background-color:transparent !important;
+// }
+// // prev和next箭头的样式
+// ::v-deep .el-pagination .btn-next,
+// ::v-deep .el-pagination .btn-prev{
+//   background:transparent !important;
+//   background-color:transparent !important;
+// }
+// // prev和next箭头disabled的样式
+// ::v-deep .el-pagination button:disabled {
+//   background-color:transparent !important;
+// }
+// // 页码样式
+// ::v-deep .el-pager li{
+//   background-color:transparent !important;
+// }
+// // active的页码样式
+// ::v-deep .el-pager li.active{
+//   color: #267aff !important;
+// }
+
